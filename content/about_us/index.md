@@ -1,7 +1,7 @@
 ---
 title: About Us
 image:
-  filename: static/uploads/IMG_0837.png
+  filename: IMG_0837.png
   filters:
     flip: true
   
