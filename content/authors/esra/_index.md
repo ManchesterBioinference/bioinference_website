@@ -44,16 +44,16 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:test@example.org'
+    link: 'mailto:esbusraisik@gmail.com'
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://x.com/esbusis
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com/citations?user=l-9qi_0AAAAJ&hl=en
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/esbusis 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -69,9 +69,12 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Researchers
+  - Grad Students
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a PhD student in Bioinformatics at the University of Manchester, part of the ELLIS PhD programme, working in collaboration with AstraZeneca. My research focuses on integrating machine learning and statistical methods for spatial multi-omic analysis.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I hold an MSc in Bioinformatics and Systems Biology from Gebze Technical University and a BSc in Molecular Biology and Genetics from Istanbul Medeniyet University. My expertise includes genomics, spatial omics, and structural biology, and I am proficient in multiple programming languages for large-scale bioinformatics data analysis. My work has contributed to algorithm development for viral surveillance, drug discovery, and sustainable agriculture, leading to multiple high-impact publications in journals like Nature Biotechnology and Briefings in Bioinformatics.
+
+Beyond research, I am an Executive Board Member of the Asia Pacific Bioinformatics Network (APBioNET) and actively contribute to bioinformatics education and training. I co-authored the Grand Challenges in Bioinformatics Education and Training paper and regularly serve as a coordinator and trainer for global initiatives. I am committed to advancing the field through scientific contributions, education, and community-driven initiatives.
+
