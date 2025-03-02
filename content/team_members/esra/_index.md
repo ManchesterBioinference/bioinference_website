@@ -1,20 +1,20 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Esra Busra Isik
 
 # Full Name (for SEO)
-first_name: Nelson
-last_name: Bighetti
+first_name: Esra Busra
+last_name: Isik
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: PhD Student
 
 # Organizations/Affiliations
 organizations:
-  - name: Stanford University
+  - name: University of Manchester
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
