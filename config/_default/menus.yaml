@@ -16,8 +16,8 @@ main:
   - name: News
     url: news
     weight: 40
-  - name: Events
-    url: event
+  - name: Resources
+    url: resources
     weight: 50
   - name: Publications
     url: publication

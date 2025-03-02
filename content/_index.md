@@ -9,6 +9,8 @@ sections:
     content:
       title: |
         Bioinference Group @ University of Manchester
+      image:
+        filename: IMG_0837.jpeg
       text: |
         <br>
         
