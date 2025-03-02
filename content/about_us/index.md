@@ -3,7 +3,7 @@ title: About Us
 image:
   filename: IMG_0837.jpeg
     filters:
-    flip: false  # Set this to true if needed
+    flip: false 
     rotate: 180 
 
 ---
