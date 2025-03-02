@@ -1,7 +1,7 @@
 ---
 title: About Us
 image:
-  filename: /uploads/IMG_0837.png
+  filename: static/uploads/IMG_0837.png
   
 ---
 
