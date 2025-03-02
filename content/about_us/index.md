@@ -3,8 +3,8 @@ title: About Us
 image:
   filename: IMG_0837.jpeg
     filters:
-    flip: false 
-    rotate: 180 
+      flip: false 
+      rotate: 180 
 
 ---
 
