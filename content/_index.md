@@ -10,7 +10,7 @@ sections:
       title: |
         Bioinference Group @ University of Manchester
       image:
-        filename: IMG_0837.jpeg
+        filename: /uploads/IMG_0837.jpeg
       text: |
         <br>
         
@@ -53,7 +53,7 @@ sections:
       title:
       subtitle:
       text: |
-        {{% cta cta_link="./team_members/" cta_text="Meet the team →" %}}
+        {{% cta cta_link="./people/" cta_text="Meet the team →" %}}
     design:
       columns: '1'
 ---

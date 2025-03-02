@@ -1,9 +1,7 @@
 ---
 title: About Us
 image:
-  filename: IMG_0837.jpeg
-  filters:
-    rotate: 180
+  filename: /uploads/IMG_0837.jpeg
   
 ---
 
