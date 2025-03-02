@@ -2,7 +2,7 @@
 title: About Us
 image:
   filename: IMG_0837.jpeg
-  focal_point: 'top'
+  
 ---
 
 

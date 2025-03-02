@@ -14,7 +14,7 @@ sections:
       text: |
         <br>
         
-        The **Bioinference  Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+        The **Bioinference  Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding.
   
   - block: collection
     content:
