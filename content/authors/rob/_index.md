@@ -84,9 +84,9 @@ user_groups:
   - Researchers
 ---
 
-I am a Research Fellow at the University of Manchester. My research focuses on the relationships between the circadian clock and disease, in particular looking at the effect of disruption to the circadian system, for example through shift working, has on health.
+icon: "custom/microsoft" I am a Research Fellow at the University of Manchester. My research focuses on the relationships between the circadian clock and disease, in particular looking at the effect of disruption to the circadian system, for example through shift working, has on health.
 
-I co-lead the Research IT Computation and Data in Research (CaDiR) UoM UK Biobank Users community. I’m a research scholar with Our Future Health.
+I co-lead the Research IT Computation and Data in Research (CaDiR) UoM UK Biobank users community. I’m a research scholar with Our Future Health.
 
 Currently, I am funded by Asthma & Lung UK.
 
