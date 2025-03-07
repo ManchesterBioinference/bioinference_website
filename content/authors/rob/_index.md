@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Robert Maidstone
+title: Dr Robert Maidstone
 
 # Full Name (for SEO)
 first_name: Robert
