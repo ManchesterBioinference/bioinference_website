@@ -61,6 +61,7 @@ social:
     icon_pack: fas
     link: 'mailto:robert.maidstone@manchester.ac.uk'
   - icon: "custom/bluesky-brands"
+    icon_pack: brands
     link: https://bsky.app/profile/robertmaidstone.bsky.social
   - icon: google-scholar
     icon_pack: ai
