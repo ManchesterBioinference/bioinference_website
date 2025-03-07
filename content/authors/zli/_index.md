@@ -16,11 +16,9 @@ role: PhD Student
 organizations:
   - name: University of Manchester
     url: 'https://www.manchester.ac.uk/'
-  - name: Health Data Research UK
-    url: 'https://www.hdruk.ac.uk/'
 
 # Short bio (displayed in user profile at end of posts)
-bio: 
+bio: Medical data scientist. Bayesian. Horgarthian scuba diver. 
 
 interests:
   - Clinical prediction models
@@ -46,8 +44,8 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'mailto:zhengmao.li@postgrad.manchester.ac.uk'
-  - icon: x
-    icon_pack: brands
+  - icon: twitter
+    icon_pack: fab
     link: https://x.com/Zhengmao_L
   - icon: github
     icon_pack: fab
