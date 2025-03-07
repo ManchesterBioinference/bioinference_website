@@ -21,14 +21,14 @@ organizations:
 bio: Research Fellow at the University of Manchester
 
 interests:
-  - Epidemiology
-  - Circadian clock
-  - Asthma
+  - Lung health
   - Impacts of shift work
-  - Bioinformatics & Computational Biology
-  - Machine Learning for Biomedical Data
+  - Circadian biology
+  - Epidemiology
+  - Bioinformatics/computational biology
+  - Machine learning
 
-Positions:
+positions:
   courses:
     - course: Research Fellow
       institution: Division of Immunology, Immunity to Infection and Respiratory Medicine, Division of University of Manchester
@@ -85,10 +85,10 @@ user_groups:
   - Researchers
 ---
 
-I am a Research Fellow at the University of Manchester, part of Dr. Hannah Durrington’s research group.
+I am a Research Fellow at the University of Manchester. My research focuses on the relationships between the circadian clock and disease, in particular looking at the effect of disruption to the circadian system, for example through shift working, has on health.
 
-My recent work uses computational techniques to explore the relationships between the circadian clock and disease. In particular looking at the effect of disruption to the circadian system, for example through shift working, has on health.
+I co-lead the Research IT Computation and Data in Research (CaDiR) UoM UK Biobank Users community. I’m a research scholar with Our Future Health.
 
 Currently, I am funded by Asthma & Lung UK.
 
-I co-lead the Research IT Computation and Data in Research (CaDiR) UoM UK Biobank Users community. I’m a research scholar with Our Future Health.
+
