@@ -61,7 +61,7 @@ social:
     icon_pack: fas
     link: 'mailto:robert.maidstone@manchester.ac.uk'
   - icon: twitter
-    icon_pack: brands
+    icon_pack: fab
     link: https://bsky.app/profile/robertmaidstone.bsky.social
   - icon: google-scholar
     icon_pack: ai
