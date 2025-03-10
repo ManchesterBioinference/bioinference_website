@@ -60,7 +60,8 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'mailto:robert.maidstone@manchester.ac.uk'
-  - icon: "custom/bluesky.svg"
+  - icon: twitter
+    icon_pack: brands
     link: https://bsky.app/profile/robertmaidstone.bsky.social
   - icon: google-scholar
     icon_pack: ai
@@ -84,7 +85,7 @@ user_groups:
   - Researchers
 ---
 
-icon: "custom/bluesky" I am a Research Fellow at the University of Manchester. My research focuses on the relationships between the circadian clock and disease, in particular looking at the effect of disruption to the circadian system, for example through shift working, has on health.
+I am a Research Fellow at the University of Manchester. My research focuses on the relationships between the circadian clock and disease, in particular looking at the effect of disruption to the circadian system, for example through shift working, has on health.
 
 I co-lead the Research IT Computation and Data in Research (CaDiR) UoM UK Biobank users community. I’m a research scholar with Our Future Health.
 
