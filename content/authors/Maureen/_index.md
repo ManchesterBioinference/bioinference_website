@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Chebet
+title: Maureen Chebet
 
 # Full Name (for SEO)
 first_name: Maureen
