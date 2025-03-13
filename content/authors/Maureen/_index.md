@@ -16,15 +16,18 @@ role: PhD Student
 organizations:
   - name: University of Manchester
     url: ''
+  - name: Health Data Research UK (HDR UK)
+    url: https://www.hdruk.ac.uk/people/maureen-ngetich-2/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include machine learning for genomics.
+bio: My research interests include deep learning for genomics.
 
 interests:
   - Bioinformatics & Computational Biology
-  - Genomics & Proteomics
+  - Genomics 
   - Machine Learning for Biomedical Data
   - Spatial Omics & Structural Biology
+  - Natural language processing
 
 
 education:
@@ -48,7 +51,7 @@ social:
     icon_pack: fab
     link: https
   - icon: ORCID
-    icon_pack: ai
+    icon_pack: fab
     link: https://orcid.org/0009-0007-4945-4635
   - icon: github
     icon_pack: fab
@@ -71,11 +74,7 @@ user_groups:
   - Grad Students
 ---
 
-I am a PhD student in Bioinformatics at the University of Manchester, 
-part of the ELLIS PhD programme, working in collaboration with AstraZeneca. 
-My research focuses on integrating machine learning and statistical methods for spatial multi-omic analysis.
+I am a PhD student in Health Data Science at the University of Manchester, part of the HDR UK-Wellcome PhD programme. My research focuses on integrating machine learning, deep learning and statistical methods for spatial multi-omic analysis.
 
-I hold an MSc in Bioinformatics and Systems Biology from Gebze Technical University and a BSc in Molecular Biology and Genetics from Istanbul Medeniyet University. My expertise includes genomics, spatial omics, and structural biology, and I am proficient in multiple programming languages for large-scale bioinformatics data analysis. My work has contributed to algorithm development for viral surveillance, drug discovery, and sustainable agriculture, leading to multiple high-impact publications in journals like Nature Biotechnology and Briefings in Bioinformatics.
 
-I am an Executive Board Member of the Asia Pacific Bioinformatics Network (APBioNET) and actively contribute to bioinformatics education and training. I co-authored the Grand Challenges in Bioinformatics Education and Training paper and regularly serve as a coordinator and trainer for global initiatives. I am committed to advancing the field through scientific contributions, education, and community-driven initiatives.
 
