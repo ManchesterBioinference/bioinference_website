@@ -10,7 +10,7 @@ last_name: Maidstone
 superuser: false
 
 # Role/position
-role: Researcher
+role: Research Fellow
 
 # Organizations/Affiliations
 organizations:
