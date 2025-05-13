@@ -75,9 +75,9 @@ user_groups:
   - Researchers
 ---
 
-I am a Research Associate at the University of Manchester using machine learning methods to understand transcriptional regulation. I am curently using LLMs to extract motifs and features from 5' and 3' UTRs that influence mRNA decay rates, location, translational efficiency, etc. in early drosophila development.  
+I am a Research Associate at the University of Manchester using machine learning methods to understand transcriptional regulation. I am currently using LLMs to extract motifs and features from 5' and 3' UTRs that influence mRNA decay rates, location, translational efficiency, etc. in early drosophila development.  
 
-During my PhD I leveraged single-nucleus RNA-seq to identify cell-type specific transcriptional changes associated with autosomal dominant and other risk variants in Alzheimer Disease. I also contructed gene regulatory networks (GRNs) for specific microglial and astrocytic cell states associated with disease. 
+During my PhD I leveraged single-nucleus RNA-seq to identify cell-type specific transcriptional changes associated with autosomal dominant and other risk variants in Alzheimer Disease. I also constructed gene regulatory networks (GRNs) for specific microglial and astrocytic cell states associated with disease. 
 
 
 
