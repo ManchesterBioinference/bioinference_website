@@ -20,38 +20,6 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: Research Fellow at the University of Manchester
 
-interests:
-  - Lung health
-  - Impacts of shift work
-  - Circadian biology
-  - Epidemiology
-  - Bioinformatics/computational biology
-  - Machine learning
-
-positions:
-  courses:
-    - course: Research Fellow
-      institution: Division of Immunology, Immunity to Infection and Respiratory Medicine, Division of University of Manchester
-      year: 2022-
-    - course: Research Associate
-      institution: OCDEM, University of Oxford
-      year: 2018-2022
-    - course: Research Fellow
-      institution: Division of Informatics, Imaging & Data Sciences, University of Manchester
-      year: 2016-2018
-
-education:
-  courses:
-    - course: PhD in Statistics and Operational Research (STOR-i)
-      institution: Lancaster University
-      year: 2016
-    - course: MRes in Statistics and Operational Research (STOR-i)
-      institution: Lancaster University
-      year: 2012
-    - course: BSc in Mathematics
-      institution: Lancaster University
-      year: 2011
-
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
@@ -119,5 +87,6 @@ Currently, I am funded by the [North West Lung Centre Charity](https://meu.org.u
 -   [**Influence of Artificial Light at Night on Asthma and Allergic Diseases: A Systematic Review and Meta-Analysis**](https://doi.org/10.1186/s12916-024-03291-5) Andy Deprato, *Robert Maidstone*, Anna Palomar Cros, Ana Adan, Prasun Haldar, Barbara N. Harding, Paige Lacy, Lyle Melenka, Saibal Moitra, Jose Francisco Navarro, Manolis Kogevinas, Hannah J. Durrington and Subhabrata Moitra - BMC Medicine 22(67), 2024.
 
 -   [**Night Shift Work is Associated with an Increased Risk of Asthma**](http://dx.doi.org/10.1136/thoraxjnl-2020-215218) *Robert J. Maidstone*, James Turner, Celine Vetter, Hassan S. Dashti, Richa Saxena, Frank A.J.L. Sheer, Steven A. Shea, Simon D. Kyle, Deborah A. Lawlor, Andrew S.I. Loudon, John F. Blaikley, Martin K. Rutter, David W. Ray and Hannah J. Durrington - Thorax 76(1), 2021.
+
 
 
