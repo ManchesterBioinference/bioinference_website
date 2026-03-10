@@ -1,4 +1,5 @@
 ---
+# Leave the homepage title empty to use the site title
 title:
 date: 2022-10-24
 type: landing
@@ -33,7 +34,22 @@ sections:
     design:
       view: card
       columns: '1'
-
+  
+  - block: collection
+    content:
+      title: Latest Preprints
+      text: ""
+      count: 5
+      filters:
+        folders:
+          - publication
+        publication_type: '3'
+      offset: 0
+      order: desc
+    design:
+      view: citation
+      columns: '1'
+      
   - block: collection
     content:
       title: Latest Publications
@@ -48,6 +64,7 @@ sections:
       view: citation
       columns: '1'
 
+
   - block: markdown
     content:
       title:
@@ -57,3 +74,5 @@ sections:
     design:
       columns: '1'
 ---
+
+
