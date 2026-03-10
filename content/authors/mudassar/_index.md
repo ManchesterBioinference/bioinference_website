@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Mudassar Iqbal
+title: Prof Mudassar Iqbal
 
 # Full Name (for SEO)
 first_name: Mudassar
@@ -39,89 +39,6 @@ education:
       institution: University of the Punjab, Lahore, Pakistan
       year: 1999
 
-students:
-  courses:
-    - course: PhD Student – Developing novel methods for identifying spatial domains and cell–cell interactions from spatial transcriptomics data
-      institution: Mohammad Faiz Iqbal Faiz (BBSRC DTP)
-      year: 2025
-
-    - course: PhD Student – Integration of multimodal datasets to understand adipose tissue responses to obesity
-      institution: Shin-Yu Kung (Bicentenary DTP)
-      year: 2025
-
-    - course: PhD Student – Using single-cell multiomics to unravel cell fate decisions during early embryo development
-      institution: Shangde Li (Bicentenary DTP)
-      year: 2025
-
-    - course: PhD Student – Understanding congenital heart disease using single-cell genomics and machine learning
-      institution: Toby Holdcroft (Bicentenary DTP)
-      year: 2025
-
-    - course: PhD Student – Single-cell genomics approaches to study circadian regulation in psoriasis
-      institution: Jacob Pope (BSF funded)
-      year: 2025
-
-    - course: DClinSci / HSST Clinical Bioinformatics
-      institution: Adriana Toutoudaki (Cambridge University Hospitals NHS Trust)
-      year: 2025
-
-    - course: PhD Student – Deep learning methods for predicting gene and pathway expression from histology images
-      institution: Muhammad Ahtazaz Ahsan (MRC CASE DTP)
-      year: 2024
-
-    - course: PhD Student – Multiomics approaches to study metastatic breast cancer
-      institution: Grace Eckersley (MRC CASE)
-      year: 2024
-
-    - course: PhD Student – Gene regulatory landscapes in embryonic stem cells and oesophageal cancer cells
-      institution: Emily Edwards (MRC DTP)
-      year: 2024
-
-    - course: PhD Student – Production of human immune cells for therapeutic applications
-      institution: Vrinda Sharma (MRC DTP)
-      year: 2024
-
-    - course: PhD Student – Single-cell multiomics approaches to study acute myeloid leukemia
-      institution: Jessica Whittle (MRC DTP)
-      year: 2022
-
-
-# Alumni
-alumni:
-  courses:
-    - course: DClinSci
-      institution: Kamla Reddi – ViaPath, London
-      year: 2026
-
-    - course: DClinSci
-      institution: Ying Li – Bioinformatics Scientist, NHS Blood and Transplant
-      year: 2025
-
-    - course: PhD
-      institution: Magdalena Grudzien
-      year: 2025
-
-    - course: PhD
-      institution: Mueez Waqar – Neurosurgery Resident, Salford Royal Hospital, Manchester
-      year: 2024
-
-    - course: DClinSci
-      institution: Sanjeev Bhaskar – NHSE GTAC Professional Lead & Clinical Genomics Bioinformatics Lead, Manchester
-      year: 2024
-
-    - course: PhD
-      institution: Xin Ma – Industry position, Shanghai
-      year: 2024
-
-    - course: PhD
-      institution: William Morgans – Postdoctoral Researcher, University of Manchester
-      year: 2024
-
-    - course: PhD
-      institution: Louise Hunter – PI / Clinical Senior Lecturer, University of Manchester
-      year: 2019
-
-
 
 
 # Social/Academic Networking
@@ -131,7 +48,7 @@ alumni:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:esbusraisik@gmail.com'
+    link: 'mailto:iqbal.mudassar@gmail.com'
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?user=ruWvsa4AAAAJ&hl=en&oi=ao
@@ -139,7 +56,7 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/in/mudassar-iqbal-193346148/
   - icon: bluesky
-    icon_pack: icon
+    icon_pack: fab
     link: https://bsky.app/profile/miqbal13.bsky.social
     
     
@@ -170,3 +87,48 @@ I have a degree in Physics from the University of the Punjab (Lahore, Pakistan),
 
 Outside work, I am a keen cricketer, a fair-weather cyclist, and—more recently—a somewhat more serious runner. My running ambitions are steadily increasing, although my pace has not yet caught up with them.
 
+## Current PhD Students
+
+- **Mohammad Faiz Iqbal Faiz** (BBSRC DTP, started 2025)  
+  Developing novel methods for identifying spatial domains and cell–cell interactions from spatial transcriptomics data
+
+- **Shin-Yu Kung** (Bicentenary DTP, started 2025)  
+  Integration of multimodal datasets to understand adipose tissue responses to obesity
+
+- **Shangde Li** (Bicentenary DTP, started 2025)  
+  Using single-cell multiomics to unravel cell fate decisions during early embryo development
+
+- **Toby Holdcroft** (Bicentenary DTP, started 2025)  
+  Understanding congenital heart disease using single-cell genomics and machine learning
+
+- **Jacob Pope** (BSF funded, started 2025)  
+  Single-cell genomics approaches to study circadian regulation in psoriasis
+
+- **Adriana Toutoudaki** (HSST / DClinSci, Cambridge University Hospitals NHS Trust, started 2025)  
+  Clinical bioinformatics
+
+- **Muhammad Ahtazaz Ahsan** (MRC CASE DTP, started 2024)  
+  Deep learning methods for predicting gene and pathway expression from histology images
+
+- **Grace Eckersley** (MRC CASE, started 2024)  
+  Multiomics approaches to study metastatic breast cancer
+
+- **Emily Edwards** (MRC DTP, started 2024)  
+  Gene regulatory landscapes in embryonic stem cells and oesophageal cancer cells
+
+- **Vrinda Sharma** (MRC DTP, started 2024)  
+  Production of human immune cells for therapeutic applications
+
+- **Jessica Whittle** (MRC DTP, started 2022)  
+  Single-cell multiomics approaches to study acute myeloid leukemia
+
+## Alumni
+
+- **Kamla Reddi** (DClinSci, 2026) – ViaPath, London
+- **Ying Li** (DClinSci, 2025) – Bioinformatics Scientist, NHS Blood and Transplant
+- **Magdalena Grudzien** (PhD, 2025)
+- **Mueez Waqar** (PhD, 2024) – Neurosurgery Resident, Salford Royal Hospital, Manchester
+- **Sanjeev Bhaskar** (DClinSci, 2024) – NHSE GTAC Professional Lead & Clinical Genomics Bioinformatics Lead, Manchester
+- **Xin Ma** (PhD, 2024) – Industry position, Shanghai
+- **William Morgans** (PhD, 2024) – Postdoctoral Researcher, University of Manchester
+- **Louise Hunter** (PhD, 2019) – PI / Clinical Senior Lecturer, University of Manchester
