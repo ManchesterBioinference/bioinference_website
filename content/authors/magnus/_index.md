@@ -44,13 +44,13 @@ positions:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:logan.brase@manchester.ac.uk'
+    link: 'mailto:magnus.rattray@manchester.ac.uk'
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.com/citations?hl=en&user=He633n0AAAAJ
+    link: https://scholar.google.co.uk/citations?user=FyB7r1IAAAAJ&hl=en
   - icon: github
     icon_pack: fab
-    link: https://github.com/braselog
+    link: https://github.com/ManchesterBioinference
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -67,12 +67,14 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Researchers
+  - Principal Investigators
 ---
 
-I am a Research Associate at the University of Manchester using machine learning methods to understand transcriptional regulation. I am currently using LLMs to extract motifs and features from 5' and 3' UTRs that influence mRNA decay rates, location, translational efficiency, etc. in early drosophila development.  
+I'm interested in how to learn models and make inferences given evidence from high-throughput biological datasets. The models that we develop range from mechanistic differential equation models of the cell to more abstract probabilistic machine learning models that can be used uncover interesting structure in high-dimensional data. I'm particularly interested in hybrid models that combine aspects of mechanistic and probabilistic models.
 
-During my PhD I leveraged single-nucleus RNA-seq to identify cell-type specific transcriptional changes associated with autosomal dominant and other risk variants in Alzheimer Disease. I also constructed gene regulatory networks (GRNs) for specific microglial and astrocytic cell states associated with disease. 
+Models encode our hypotheses about how biological systems work. We use probabilistic inference to learn the model parameters and to choose between competing models so as to identify the hypotheses best supported by the available experimental evidence. Bayesian inference and non-parametric modelling is a particular focus as this provides a principled framework for dealing with uncertainty in complex systems. 
+
+
 
 
 
