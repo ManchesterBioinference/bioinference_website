@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Prof Mudassar Iqbal
+title: Dr Mudassar Iqbal
 
 # Full Name (for SEO)
 first_name: Mudassar
@@ -48,7 +48,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:iqbal.mudassar@gmail.com'
+    link: 'mailto:mudassar.iqbal@manchester.ac.uk'
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?user=ruWvsa4AAAAJ&hl=en&oi=ao
