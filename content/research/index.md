@@ -9,7 +9,7 @@ title: Research Projects
 
 *AI-hub in Generative Models* https://www.genai.ac.uk/ Generative Biology Theme leads: Magnus Rattray and Jason Hartford; Hub researcher: Yuhan Wang 
 
-*Preoperative brain irradiation in glioblastoma (PROJECT), Medical Research Council (MRC)*, https://gtr.ukri.org/projects?ref=MR%2FX014088%2F1#/tabOverview
+*Preoperative brain irradiation in glioblastoma (POBIG), Medical Research Council (MRC)*, https://gtr.ukri.org/projects?ref=MR%2FX014088%2F1#/tabOverview
 Awarded to: Gerben Borst, Mudassar Iqbal, James O'Connor and Federico Roncaroli
 
 *Unraveling the Molecular Mechanisms driving Endothelial-to-Haematopoietic Transition during Blood Formation*, BBSRC (Feb 2026 - Feb 2029)
