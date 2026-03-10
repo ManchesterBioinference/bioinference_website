@@ -1,7 +1,7 @@
 ---
 title: About Us
 image:
-  filename: IMG_0837.png
+  filename: IMG_0100.png
   
 ---
 
