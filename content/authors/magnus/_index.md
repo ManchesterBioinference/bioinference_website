@@ -1,46 +1,41 @@
 ---
 # Display name
-title: Dr Logan Brase
+title: Prof Magnus Rattray
 
 # Full Name (for SEO)
-first_name: Logan
-last_name: Brase
+first_name: Magnus
+last_name: Rattray
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Research Associate
+role: Principal Investigator
 
 # Organizations/Affiliations
 organizations:
   - name: University of Manchester
-    url: ''
+    url: 'https://research.manchester.ac.uk/en/persons/magnus.rattray/'
 
 # Short bio (displayed in user profile at end of posts)
-bio: Research Associate at the University of Manchester
+bio: Professor of Computational and Systems Biology at the University of Manchester
 
 interests:
-  - Bioinformatics/computational biology
+  - Computational biology
   - Machine learning
-  - Data Science
-  - LLMs
-  - Gene Regulation
+  - Probabilistic modelling
 
 positions:
   courses:
-    - course: Research Associate
+    - course: Professor of Computational and Systems Biology
       institution: Division of Informatics, Imaging & Data Sciences, University of Manchester
-      year: 2024-
-
-education:
-  courses:
-    - course: PhD Human and Statistical Genetics
-      institution: Washington University in St. Louis
-      year:  2018-2024
-    - course: BS Bioinformatics AND Genetics 
-      institution: Brigham Young University (Provo)
-      year: 2011, 2014-2018
+      year: 2012-
+    - course: Professor of Statistical Bioinformatics & Machine Learning
+      institution: University of Sheffield
+      year:  2010-2012
+    - course: Senior Lecturer in Computer Science
+      institution: University of Manchester
+      year: 2003-2010
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
