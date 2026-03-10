@@ -8,3 +8,10 @@ title: Research Projects
 *MRC Centre of Research Excellence in Exposome Immunology* https://www.bmh.manchester.ac.uk/research/institutes-centres/mrc-core-exposome/ Data Pillar Leadership Team: Magnus Rattray; Researchers: Rufus Daw and Stepan Denisov
 
 *AI-hub in Generative Models* https://www.genai.ac.uk/ Generative Biology Theme leads: Magnus Rattray and Jason Hartford; Hub researcher: Yuhan Wang 
+
+*Preoperative brain irradiation in glioblastoma (PROJECT), Medical Research Council (MRC)*, https://gtr.ukri.org/projects?ref=MR%2FX014088%2F1#/tabOverview
+Awarded to: Gerben Borst, Mudassar Iqbal, James O'Connor and Federico Roncaroli
+
+*Unraveling the Molecular Mechanisms driving Endothelial-to-Haematopoietic Transition during Blood Formation*, BBSRC (Feb 2026 - Feb 2029)
+Awarded to: Georges Lacaud, and Mudassar Iqbal
+
