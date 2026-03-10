@@ -8,13 +8,13 @@ sections:
   - block: hero
     content:
       title: |
-        Manchester Bioinference
+        Bioinference Group @ University of Manchester
       image:
         filename: IMG_8134.png
       text: |
         <br>
         
-        The *Manchester Bioinference* group develops computational modelling and machine learning approaches to understand the complexity of biological systems. We develop a range of computational methods for probabilistic modelling, multi-modal machine learning and system biology modelling, applied to diverse applications involving spatial and single-cell omics technologies, imaging and longitudinal health data. We collaborate with scientists working on cancer research, industrial biotechnology, developmental biology and immunology. Our research is funded by awards from the UKRI, Wellcome Trust, CRUK and industry partners. 
+        The **Manchester Bioinference** group develops computational and machine learning methods to study complex biological systems using spatial and single-cell omics, imaging, and health data.
   
   - block: collection
     content:
@@ -57,3 +57,5 @@ sections:
     design:
       columns: '1'
 ---
+
+
