@@ -18,20 +18,16 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include machine learning for genomics.
+bio: I am interested in machine learning and bioinformatics
 
 interests:
-  - Bioinformatics & Computational Biology
-  - Genomics & Proteomics
-  - Machine Learning for Biomedical Data
-  - Spatial Omics & Structural Biology
-
+  - Machine learning, Bioinformatics
 
 education:
   courses:
     - course: PhD in Bayesian deep learning for system identification
       institution: Delft University of Technology
-      year: 2020
+      year: 2022
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
