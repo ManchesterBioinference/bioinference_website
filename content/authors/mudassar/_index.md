@@ -58,6 +58,9 @@ social:
   - icon: bluesky
     icon_pack: fab
     link: https://bsky.app/profile/miqbal13.bsky.social
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/ManchesterBioinference
     
     
 # Link to a PDF of your resume/CV from the About widget.
