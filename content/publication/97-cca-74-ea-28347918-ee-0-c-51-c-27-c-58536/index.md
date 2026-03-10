@@ -1,0 +1,27 @@
+---
+title: Scalable Multi-Output Gaussian Processes with Stochastic Variational Inference
+authors:
+- Xiaoyu Jiang
+- Sokratia Georgaka
+- Magnus Rattray
+- \Mauricio A.\ Álvarez
+date: '2025-01-01'
+publishDate: '2026-03-10T14:03:29.230939Z'
+publication_types:
+- article-journal
+publication: '*Transactions on Machine Learning Research*'
+abstract: The Multi-Output Gaussian Process (MOGP) is a popular tool for modelling
+  data from multiple sources. A typical choice to build a covariance function for
+  an MOGP is the Linear Model of Coregionalisation (LMC), which parametrically models
+  the covariance between outputs. The Latent Variable MOGP (LV-MOGP) generalises this
+  idea by modelling the covariance between outputs using a kernel applied to latent
+  variables, one per output, leading to a flexible MOGP model that allows efficient
+  generalisation to new outputs with few data points. The computational complexity
+  in LV-MOGP grows linearly with the number of outputs, which makes it unsuitable
+  for problems with a large number of outputs. In this paper, we propose a stochastic
+  variational inference approach for the LV-MOGP that allows mini-batches for both
+  inputs and outputs, making computational complexity per training iteration independent
+  of the number of outputs. We demonstrate the performance of the model by benchmarking
+  against some other MOGP models in several real-world datasets, including spatial-temporal
+  climate modelling and spatial transcriptomics.
+---
