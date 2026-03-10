@@ -10,7 +10,7 @@ last_name: Zhou
 superuser: true
 
 # Role/position
-role: Researcher
+role: Research Fellow
 
 # Organizations/Affiliations
 organizations:
@@ -61,7 +61,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Researcher
+  - Researchers
 ---
 
 Dr Hongpeng Zhou is a Dame Kathleen Ollerenshaw Fellow at the Computer Science Department, University of Manchester, UK. He obtained his PhD from Delft University of Technology in 2022. His research focuses on machine learning, deep learning, Bayesian learning, and bioinformatics. He previously worked as a postdoctoral researcher at the University of Manchester and earned his Bachelor’s and Master’s degrees from Harbin Institute of Technology, China. 
