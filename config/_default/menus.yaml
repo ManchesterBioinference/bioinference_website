@@ -21,6 +21,6 @@ main:
     weight: 40
   - name: Resources
     url: resources
-    weight: 50find content/publication -maxdepth 2 -type d | sort
+    weight: 50
 
 
