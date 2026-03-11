@@ -8,13 +8,13 @@ sections:
   - block: hero
     content:
       title: |
-        Bioinference Group @ University of Manchester
+        Bioinference @ University of Manchester
       image:
         filename: IMG_8134.png
       text: |
         <br>
         
-        The **Manchester Bioinference** group develops computational and machine learning methods to study complex biological systems using spatial and single-cell omics, imaging, and health data.
+        The **Manchester Bioinference** develops computational and machine learning methods to study complex biological systems using spatial and single-cell omics, imaging, and health data.
   
   - block: collection
     content:
