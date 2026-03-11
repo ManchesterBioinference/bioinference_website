@@ -14,7 +14,7 @@ sections:
       text: |
         <br>
         
-        **Manchester Bioinference** develops computational and machine learning methods to study complex biological systems using spatial and single-cell omics, imaging, and health data.
+        **Manchester Bioinference** develop computational and machine learning methods to study complex biological systems using spatial and single-cell omics, imaging, and health data.
   
   - block: collection
     content:
