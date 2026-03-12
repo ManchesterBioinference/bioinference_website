@@ -43,7 +43,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:ahsan.ahtazaz92@gmail.com'
+    link: ahsan.ahtazaz92@gmail.com
   - icon: twitter
     icon_pack: fab
     link: https://x.com/Aitzazahsan2
