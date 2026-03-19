@@ -10,7 +10,7 @@ last_name: Rattray
 superuser: false
 
 # Role/position
-role: Principal Investigator
+role: Professor of Computational & Systems Biology
 
 # Organizations/Affiliations
 organizations:
