@@ -15,3 +15,4 @@ Awarded to: Gerben Borst, Mudassar Iqbal, James O'Connor and Federico Roncaroli
 *Unraveling the Molecular Mechanisms driving Endothelial-to-Haematopoietic Transition during Blood Formation*, BBSRC (Feb 2026 - Feb 2029)
 Awarded to: Georges Lacaud, and Mudassar Iqbal
 
+*Bridging the Gap: AI-Powered Spatial Tumour Profiling of Glioblastoma from Routine H&E Images*, UMRI Pump Priming. Awarded to: Sokratia Georgaka, Hongpeng Zhou, David Jenkins. Researcher: Yusuf Hakan Usta
