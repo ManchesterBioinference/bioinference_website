@@ -16,3 +16,5 @@ Awarded to: Gerben Borst, Mudassar Iqbal, James O'Connor and Federico Roncaroli
 Awarded to: Georges Lacaud, and Mudassar Iqbal
 
 *Bridging the Gap: AI-Powered Spatial Tumour Profiling of Glioblastoma from Routine H&E Images*, UMRI Pump Priming. Awarded to: Sokratia Georgaka, Hongpeng Zhou, David Jenkins. Researcher: Yusuf Hakan Usta
+
+*Multimodal AI for Immunology* PDRA Project funded by MRC Centre of Research Excellence in Exposome Immunology Research Pillar 1 (Data Foundation) Madhvi Menon, Sokratia Georgaka, Calliope Dendrou, Timothy Hinks. Researcher: Qian Zhao
