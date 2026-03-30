@@ -77,7 +77,7 @@ I'm interested in how to learn models and make inferences given evidence from hi
 
 Models encode our hypotheses about how biological systems work. We use probabilistic inference to learn the model parameters and to choose between competing models so as to identify the hypotheses best supported by the available experimental evidence. Bayesian inference and non-parametric modelling is a particular focus as this provides a principled framework for dealing with uncertainty in complex systems. 
 
-As well as research, I'm also Director of the [Manchester ELLIS Unit](https://www.ellismcr.org/) and from 2026 I also have a position at the [CRUK Manchester Institute](https://www.cruk.manchester.ac.uk/).
+I'm also Director of the [Manchester ELLIS Unit](https://www.ellismcr.org/) which fosters collaboration with AI researchers across Europe and from 2026 I also have a position at the [CRUK Manchester Institute](https://www.cruk.manchester.ac.uk/).
 
 
 
