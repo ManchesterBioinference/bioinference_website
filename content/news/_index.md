@@ -9,3 +9,5 @@ banner:
   caption: ''
   image: ''
 ---
+
+Registration open for the [2026 ELLIS Summer School on Machine Learning for Healthcare and Biology](https://www.ellismcr.org/ss2026)
