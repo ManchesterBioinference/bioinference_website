@@ -10,7 +10,7 @@ last_name: Iqbal
 superuser: true
 
 # Role/position
-role: Principal Investigator
+role: Senior Lecturer in Health Data Sciences
 
 # Organizations/Affiliations
 organizations:
