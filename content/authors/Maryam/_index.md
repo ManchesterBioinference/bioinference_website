@@ -1,17 +1,17 @@
 ---
 
 # Display name
-title: Dr Kate Meeson
+title: Maryam Riazi
 
 # Full Name (for SEO)
-first_name: Kate    
-last_name: Meeson
+first_name: Maryam    
+last_name: Riazi
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Research Associate
+role: Postgraduate Student
 
 # Organizations/Affiliations
 organizations:
@@ -19,33 +19,29 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: Research Associate at the University of Manchester
+bio: Postgraduate student at the University of Manchester
 
 interests:
-  - Cancer biology
-  - Chemical engineering
-  - Metabolic modelling
-  - Cellular metabolism
-  - Bioinformatics/computational biology
-  - Machine learning
+  - Medical Data Analysis
+  - Deep Learning
+  - Machine Learning
+  - Reliable and Interpretable AI
+
 
 positions:
   courses:
-    - course: Research Associate
-      institution: Division of Evolution, Infection and Genomics
-      year: 2024-
+    - course: Postgraduate Student
+      institution: Division of Informatics, Imaging and Data Sciences
+      year: 2026-
 
 education:
   courses:
-    - course: PhD in Cancer Bioinformatics
-      institution: University of Manchester
-      year: 2024
-    - course: MRes in Biomedical Sciences and Translational Medicine
-      institution: University of Liverpool
-      year: 2020
-    - course: BSc in Medical Biochemistry
-      institution: University of Birmingham
-      year: 2019
+    - course: MSc in Electrical Enginering
+      institution: Boston University
+      year: 2025
+    - course: BSc in Electrical Enginering
+      institution: University of Tehran
+      year: 2023
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -54,13 +50,13 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:kate.meeson@manchester.ac.uk'
+    link: 'mailto:maryam.riazi@postgrad.manchester.ac.uk'
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/in/kate-meeson-49357b150/
+    link: https://www.linkedin.com/in/maryamriazi1379/
   - icon: github
     icon_pack: fab
-    link: https://github.com/katemeeson
+    link: https://github.com/maryam2079
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -79,7 +75,4 @@ highlight_name: false
 user_groups:
   - Researchers
 ---
-
-I am a Research Associate at the University of Manchester. My research focuses on metabolic modelling of Chinese Hamster Ovary (CHO) cells to predict avenues for culture optimisation. I also maintain an interest in cancer metabolism and metabolic modelling across different organisms. 
-
-Currently, I am funded by a Prosperity Partnership with FUJIFILM Diosynth Biotechnologies UK.
+I am a PhD student at the University of Manchester, where I study multimodal data analysis using routine pathology images and spatial omics data to better understand the tumor microenvironment. I am particularly interested in developing interpretable and reliable AI methods that address clinically relevant research questions and help bridge the gap between healthcare professionals and data analysts.
