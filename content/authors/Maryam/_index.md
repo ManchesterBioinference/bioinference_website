@@ -11,7 +11,7 @@ last_name: Riazi
 superuser: false
 
 # Role/position
-role: Postgraduate Student
+role: PhD Student
 
 # Organizations/Affiliations
 organizations:
@@ -30,7 +30,7 @@ interests:
 
 positions:
   courses:
-    - course: Postgraduate Student
+    - course: PhD Student
       institution: Division of Informatics, Imaging and Data Sciences
       year: 2026-
 
