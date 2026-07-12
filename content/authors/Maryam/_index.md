@@ -19,13 +19,15 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: Postgraduate student at the University of Manchester
+bio: PhD student at the University of Manchester
 
 interests:
   - Medical Data Analysis
   - Deep Learning
   - Machine Learning
   - Reliable and Interpretable AI
+  - Multicomics Data 
+
 
 
 positions:
