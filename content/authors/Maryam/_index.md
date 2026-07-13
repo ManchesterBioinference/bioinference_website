@@ -75,6 +75,6 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Researchers
+  - Grad Students
 ---
 I am a PhD student at the University of Manchester, where I study multimodal data analysis using routine pathology images and spatial omics data to better understand the tumor microenvironment. I am particularly interested in developing interpretable and reliable AI methods that address clinically relevant research questions and help bridge the gap between healthcare professionals and data analysts.
