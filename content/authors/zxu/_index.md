@@ -30,10 +30,10 @@ interests:
 education:
   courses:
     - course: ScM Data Science
-      institution: Brown University
+      institution: Brown University, RI, USA
       year: 2025
     - course: BSc Statistics and Computer Science
-      institution: McGill University
+      institution: McGill University, Montreal, Canada
       year: 2023
 
 # Social/Academic Networking
