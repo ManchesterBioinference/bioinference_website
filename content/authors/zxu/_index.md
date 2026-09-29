@@ -22,17 +22,18 @@ bio: AI4Cancer, Machine Learning/Deep Learning for Multi-Omics. Piano. Football.
 
 interests:
   - Deep Learning for Multimodal Data Integration
+  - Longitudinal Single-Cell Modeling
   - Perturbation Modeling and Experimental Design
+  - Gene Regulatory Network Inference
   - Explainable and Mechanistic AI
-  - 
 
 education:
   courses:
     - course: ScM Data Science
-      institution: Brown University, RI, USA
+      institution: Brown University
       year: 2025
     - course: BSc Statistics and Computer Science
-      institution: McGill University, Montreal, Canada
+      institution: McGill University
       year: 2023
 
 # Social/Academic Networking
@@ -65,7 +66,7 @@ user_groups:
   - Grad Students
 ---
 
-I am a PhD student in Cancer Sciences at the University of Manchester, supervised by Prof Magnus Rattray and Prof Samra Turajlic. My research focuses on applying statistical and machine learning methods to understand complex biological systems, particularly through the analysis of single-cell datasets. I develop computational models to study how genes interact within cellular systems and how these interactions shape cellular behavior. A key focus of my work is building deep learning models for prediction and inference that are explainable and capable of providing mechanistic insights.
+I am a PhD student in Cancer Sciences at the University of Manchester, supervised by Prof. Magnus Rattray and Prof. Samra Turajlic. My research focuses on developing statistical and machine learning methods for the analysis of complex single-cell data, particularly multimodal and longitudinal datasets. I develop deep generative models to integrate heterogeneous single-cell measurements, including flow cytometry and single-cell RNA sequencing, with the goal of learning biologically meaningful representations that capture cellular states and their changes over time. More broadly, I am interested in interpretable computational models that support prediction and mechanistic inference, helping uncover the biological mechanisms underlying cellular behavior, treatment response, and immune-related adverse events.
 
 I obtained a BSc in Statistics and Computer Science from McGill University in Canada and a ScM in Data Science from Brown University in the United States. I currently serve as a Graduate Teaching Assistant for the Machine Learning and Advanced Data Methods course and expect to continue in this role during my doctoral studies.
 
