@@ -18,21 +18,21 @@ organizations:
     url: 'https://www.manchester.ac.uk/'
 
 # Short bio (displayed in user profile at end of posts)
-bio: Machine Learning for Genomics. Piano. Football. Road trips. 
+bio: AI4Cancer, Machine Learning/Deep Learning for Multi-Omics. Piano. Football. Road trips. 
 
 interests:
-  - Machine Learning for Biological Systems
-  - Causal Inference in Genomics
+  - Deep Learning for Multimodal Data Integration
   - Perturbation Modeling and Experimental Design
   - Explainable and Mechanistic AI
+  - 
 
 education:
   courses:
     - course: ScM Data Science
-      institution: Brown University
+      institution: Brown University, RI, USA
       year: 2025
     - course: BSc Statistics and Computer Science
-      institution: McGill University
+      institution: McGill University, Montreal, Canada
       year: 2023
 
 # Social/Academic Networking
@@ -42,7 +42,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:zefeng.xu@postgrad.manchester.ac.uk'
+    link: 'mailto:zefeng.xu@manchester.ac.uk'
   - icon: github
     icon_pack: fab
     link: https://github.com/GunnerForever
@@ -65,7 +65,7 @@ user_groups:
   - Grad Students
 ---
 
-I am a PhD student in Bioinformatics at the University of Manchester, supervised by Prof Magnus Rattray. My research focuses on applying statistical and machine learning methods to understand complex biological systems, particularly through the analysis of single-cell genomics data. I develop computational models to study how genes interact within cellular systems and how these interactions shape cellular behavior. A key focus of my work is building models for prediction and inference that are explainable and capable of providing mechanistic insights.
+I am a PhD student in Cancer Sciences at the University of Manchester, supervised by Prof Magnus Rattray and Prof Samra Turajlic. My research focuses on applying statistical and machine learning methods to understand complex biological systems, particularly through the analysis of single-cell datasets. I develop computational models to study how genes interact within cellular systems and how these interactions shape cellular behavior. A key focus of my work is building deep learning models for prediction and inference that are explainable and capable of providing mechanistic insights.
 
 I obtained a BSc in Statistics and Computer Science from McGill University in Canada and a ScM in Data Science from Brown University in the United States. I currently serve as a Graduate Teaching Assistant for the Machine Learning and Advanced Data Methods course and expect to continue in this role during my doctoral studies.
 
